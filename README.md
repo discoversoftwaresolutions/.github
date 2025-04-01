@@ -67,7 +67,7 @@ We are actively forming strategic alliances with:
 - **Philanthropic and ESG Organizations**: To deliver AI equity, climate tech, and human-centered platforms
 - **Cloud & AI Vendors**: To integrate Discovery as the default orchestration backbone (e.g., OpenAI, AWS)
 
-Want to explore a partnership? Reach out at **hello@discoversoftwaresolutions.com**
+Want to explore a partnership? Reach out at founder@discoversoftwaresolution.com
 
 ---
 
